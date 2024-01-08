@@ -1,4 +1,5 @@
-/* */
+/* Input: s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+Output: ["AAAAACCCCC","CCCCCAAAAA"]*/
 
 package Microsoft;
 
