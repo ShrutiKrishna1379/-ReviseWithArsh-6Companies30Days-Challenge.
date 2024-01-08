@@ -1,5 +1,4 @@
-/*Input: secret = "1807", guess = "7810"
-Output: "1A3B" */
+/* */
 
 package Microsoft;
 
