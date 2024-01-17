@@ -44,4 +44,5 @@ public class BinaryTree_Infected {
             depth = Math.min(left,right)- 1;
         }
         return depth;
+    }
 }
